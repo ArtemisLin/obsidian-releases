@@ -15876,3 +15876,10 @@
 	"repo": "janisringli/bible-sidecar-obsidian-plugin"
 }	
 ]
+{
+    "id": "Obsidian-Password-Lock",
+    "name": "VaultLock",
+    "author": "ArtemisLin",
+    "description": "Use a 4-digit password to lock your obsidian interface",
+    "repo": "https://github.com/ArtemisLin/vault-lock.git"
+  }

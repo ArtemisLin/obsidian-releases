@@ -1,0 +1,9 @@
+{
+    "id": "VaultLock",
+    "name": "VaultLock",
+    "author": "ArtemisLin",
+    "description": "Use a 4-digit password to lock your obsidian interface",
+    "repo": "https://github.com/ArtemisLin/vault-lock.git",
+    "branch": "master",
+    "isDesktopOnly": true
+  }
