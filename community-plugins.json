@@ -15875,11 +15875,19 @@
 	"description": "Open the bible in your preferred translation in a split-screen view within your workspace",
 	"repo": "janisringli/bible-sidecar-obsidian-plugin"
 }	
-]
+,
 {
-    "id": "Obsidian-Password-Lock",
+    "id": "VaultLock",
     "name": "VaultLock",
     "author": "ArtemisLin",
     "description": "Use a 4-digit password to lock your obsidian interface",
     "repo": "https://github.com/ArtemisLin/vault-lock.git"
-  }
+}
+,
+{
+    "id": "memo-lite",
+    "name": "memo-lite",
+    "author": "ArtemisLin",
+    "description": "A lightweight Obsidian plugin for easy memo management.",
+    "repo": "https://github.com/ArtemisLin/memo-lite"
+}]
